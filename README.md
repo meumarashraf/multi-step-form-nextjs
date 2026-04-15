@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 ## Feedback
 
-If you have any feedback, please reach out to us at umarashraf7827@gmail.com
+If you have any feedback, please reach out to us at umarashraf.dev@gmail.com
 
 ## Developer
 
